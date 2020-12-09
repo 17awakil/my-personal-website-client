@@ -1,0 +1,5 @@
+.firebase
+public/client/node_modules
+public/client/build
+firebase.json
+.firebaserc
